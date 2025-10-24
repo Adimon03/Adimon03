@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Adimon03
-- 👀 I’m interested in designing and stuffs
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on not decided yet
-- 📫 How to reach me dm on insta link in profile
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: everybody can code
-<!---
-Adimon03/Adimon03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Tech Explorer & Dual-Threat Developer/Analyst
+Computer Science & Engineering student focused on building clean, data-driven applications.
+
+I bridge the gap between front-end development and analytical insight. You'll find repos here showcasing:
+
+Front-End Development: Projects built with Python, JavaScript, and CSS. I focus on responsive, user-friendly design. 🌐
+
+Data Analysis & Visualization: Data transformations and interactive dashboards created using Power BI and Tableau. 📈
+
+Secure Computing: Leveraging knowledge gained from the official IBM Cyber Security Analyst Professional Certificate 🔒 to build more resilient applications.
+
+Let's build something secure and insightful! Ping me about collaborations. 🚀
